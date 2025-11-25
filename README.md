@@ -1,6 +1,8 @@
 # MAD-CHESS  
 ### Automated Chessboard using STM32F767ZI, LDR Sensors, and TFT LCD
-
+This project is inspired by the concepts presented in the  
+**Automated Chessboard** project on Instructables:  
+https://www.instructables.com/Automated-Chessboard/
 ## Overview
 MAD-CHESS is an automated physical chessboard that detects chess piece movements in real time and can synchronize with a digital game interface. Inspired by the classic automated chessboard concept, this version is redesigned with modern hardware such as the STM32F767ZI microcontroller, an optical LDR sensing system, and a TFT LCD display for UI visualization.
 
@@ -105,6 +107,9 @@ Benefits over reed switches:
 ---
 
 ## Credits
-Based on concepts from the **Automated Chessboard** project on Instructables.  
+This project is inspired by the concepts presented in the  
+**Automated Chessboard** project on Instructables:  
 https://www.instructables.com/Automated-Chessboard/
-All firmware and hardware redesigns (STM32, LDR system, TFT UI) are original modifications by **Warachot Inkun (MAD-CHESS Project)**.
+
+All firmware, electronics, and mechanical redesigns — including the STM32F767ZI migration, LDR-based sensing system, TFT LCD interface, and overall architecture — are original work by **Warachot Inkun** as part of the **MAD-CHESS Project**.
+
