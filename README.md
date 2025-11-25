@@ -111,5 +111,5 @@ This project is inspired by the concepts presented in the
 **Automated Chessboard** project on Instructables:  
 https://www.instructables.com/Automated-Chessboard/
 
-All firmware, electronics, and mechanical redesigns — including the STM32F767ZI migration, LDR-based sensing system, TFT LCD interface, and overall architecture — are original work by **Warachot Inkun** as part of the **MAD-CHESS Project**.
+All firmware, electronics, and mechanical redesigns — including the STM32F767ZI migration, LDR-based sensing system, TFT LCD interface, and overall architecture — are original work by **MAD-CHESS Project Team** as part of the **MAD-CHESS Project**.
 
