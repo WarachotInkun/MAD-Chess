@@ -104,4 +104,7 @@ Benefits over reed switches:
 
 ---
 
-## Folder Structure (Recommended)
+## Credits
+Based on concepts from the **Automated Chessboard** project on Instructables.  
+https://www.instructables.com/Automated-Chessboard/
+All firmware and hardware redesigns (STM32, LDR system, TFT UI) are original modifications by **Warachot Inkun (MAD-CHESS Project)**.
