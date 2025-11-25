@@ -11,6 +11,11 @@ The system identifies piece positions using a matrix of LDR sensors under each s
 > This project replaces reed switches, multiplexers, and Arduino-based logic from the original reference design with more robust STM32 peripherals and an optical detection method.
 
 ---
+### Demonstration Video  
+[![MAD-CHESS Demo](https://img.youtube.com/vi/TiD4X6vlbk4/0.jpg)](https://www.youtube.com/watch?v=TiD4X6vlbk4&t=17s)  
+Click the thumbnail above to view the working demonstration of the MAD-CHESS system.
+
+---
 
 ## Features
 - **Real-time piece detection** using 64 LDR sensors (one per square).
