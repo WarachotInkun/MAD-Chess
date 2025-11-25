@@ -51,7 +51,7 @@ Advantages:
 - Works with any piece style  
 
 ### 3. Display
-- **TFT LCD 240x320 / 480x320** (ILI9341 or equivalent)  
+- **TFT LCD 240x320** (ILI9341 or equivalent)  
 - Shows:
   - Real-time board state
   - Move history
@@ -61,7 +61,6 @@ Advantages:
 ### 4. Optional Future Hardware
 - CoreXY mechanism for automated movement  
 - Electromagnet module  
-- RS-485 network (if integrating multi-board communication)
 
 ---
 
@@ -90,9 +89,8 @@ Main modules:
   - Render piece icons
   - Real-time sensor visualization mode (debug)
 
-### Communication (Optional)
-- UART/USB for PC interface or chess engine integration (Stockfish, etc.)
-- Wi-Fi module support (ESP32) for future cloud connection
+### Communication 
+- UART/USB for PC interface 
 
 ---
 
