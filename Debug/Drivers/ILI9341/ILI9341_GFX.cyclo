@@ -1,0 +1,7 @@
+../Drivers/ILI9341/ILI9341_GFX.c:54:6:ILI9341_Draw_Hollow_Circle	4
+../Drivers/ILI9341/ILI9341_GFX.c:89:6:ILI9341_Draw_Filled_Circle	5
+../Drivers/ILI9341/ILI9341_GFX.c:126:6:ILI9341_Draw_Hollow_Rectangle_Coord	7
+../Drivers/ILI9341/ILI9341_GFX.c:176:6:ILI9341_Draw_Filled_Rectangle_Coord	5
+../Drivers/ILI9341/ILI9341_GFX.c:224:6:ILI9341_Draw_Char	7
+../Drivers/ILI9341/ILI9341_GFX.c:263:6:ILI9341_Draw_Text	2
+../Drivers/ILI9341/ILI9341_GFX.c:274:6:ILI9341_Draw_Image	13

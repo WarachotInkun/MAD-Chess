@@ -1,0 +1,12 @@
+STEP MOTOR A (Right)
+PWM: TIM3_CH1 PB4
+EN: C3
+DIR A3
+
+STEP MOTOR B (Left)
+PWM: TIM4_CH1 PB6
+EN: F3
+DIR C0
+
+Reset Y: F10
+Reset X: F5-

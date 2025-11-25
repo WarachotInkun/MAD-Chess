@@ -1,0 +1,12 @@
+../Core/Src/motion.c:26:24:uabs32	16	static
+../Core/Src/motion.c:27:20:magnet_on	8	static
+../Core/Src/motion.c:28:20:magnet_off	8	static
+../Core/Src/motion.c:30:19:move_rel_steps	24	static
+../Core/Src/motion.c:36:5:corexy_move_delta_steps	48	static
+../Core/Src/motion.c:66:12:diag_single_locked	32	static
+../Core/Src/motion.c:98:5:corexy_knight_to_cell	56	static
+../Core/Src/motion.c:137:5:corexy_move_to_cell	64	static
+../Core/Src/motion.c:190:5:motion_castle_left	24	static
+../Core/Src/motion.c:221:5:motion_castle_right	24	static
+../Core/Src/motion.c:252:5:motion_capture_to_row8	40	static
+../Core/Src/motion.c:283:5:corexy_move_delta_steps_no_dis	48	static

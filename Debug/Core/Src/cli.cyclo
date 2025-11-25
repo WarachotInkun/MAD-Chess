@@ -1,0 +1,4 @@
+../Core/Src/cli.c:14:5:uart_read_line	8
+../Core/Src/cli.c:26:6:io_puts	1
+../Core/Src/cli.c:28:6:io_printf	2
+../Core/Src/cli.c:35:5:cli_parse_prefixed_coords	12

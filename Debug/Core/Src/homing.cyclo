@@ -1,0 +1,5 @@
+../Core/Src/homing.c:50:6:homing_on_exti	6
+../Core/Src/homing.c:71:20:homing_clear_pending	1
+../Core/Src/homing.c:77:6:homing_arm_exti	1
+../Core/Src/homing.c:88:6:homing_disarm_exti	1
+../Core/Src/homing.c:99:6:home_reset_sequence	6
